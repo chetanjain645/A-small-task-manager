@@ -1,0 +1,14 @@
+web: gunicorn app:app
+
+tune git staged hi nahi kiya tha.
+ok dekha tab smj aaya.. mene abhi git jaada nahi pada utna hi pada hai
+git ki kuchh command yaad rakh le bas
+
+1. git add .  // . for all files
+2. git commint -m "message goes here"
+3. git push origin branch-name
+
+bas ho gya
+itna hi hai.
+ok 
+chal kar de disconnect, bye.bye 
